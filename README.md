@@ -1,0 +1,2 @@
+# FlowersBot
+FlowersBot for discord
